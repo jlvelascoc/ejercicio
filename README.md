@@ -11,3 +11,7 @@ Version 1.0.1
 Version 1.0.2
   Creado fichero "ordenes.html".
   Modificado fichero "index.html". Añadido enlace a órdenes básicas.
+  
+Version 1.0.3
+  Creado fichero "buenas_practicas.html".
+  Modificado fichero "index.html". Añadido enlace a órdenes buenas prácticas.
